@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: tools
     app.kubernetes.io/part-of: tools
-  name: toolsfa5b
+  name: toolsfegn
 spec:
   port:
     targetPort: 8080

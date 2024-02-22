@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/rhtap-o11y-tenant/tools/tools@sha256:c73b372b0e8529a204aac3c0605bc411db966b165616558bbcb3e1babf562584
+      - image: quay.io/redhat-user-workloads/rhtap-o11y-tenant/tools/tools@sha256:a7ae9089db1dc6f10c23cba9711d5f2b94cc321425d0c51185d4d027bf40bbab
         name: container-image
         resources: {}
 status: {}

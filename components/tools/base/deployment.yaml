@@ -23,7 +23,7 @@ spec:
         app.kubernetes.io/instance: tools
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/rhtap-o11y-tenant/tools/tools@sha256:748dc60ce5dfe6ca5fa0f20ff2036b471ae920fbda1f97c49b3204019632f6e1
+      - image: quay.io/redhat-user-workloads/rhtap-o11y-tenant/tools/tools@sha256:afdc7addc5846c43501121fd9f9ff0fbc1d2b5b6b44367335bc0ecd0222297d9
         imagePullPolicy: Always
         name: container-image
         ports:
